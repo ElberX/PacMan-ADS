@@ -16,7 +16,7 @@ if __name__ == '__main__':
             print('SAINDO...')
             sleep(2)
             break
-        elif opcao != 1 and opcao != 2:
+        elif opcao != 1 and opcao != 0:
             print('ERRO')
             break
 
