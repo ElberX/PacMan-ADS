@@ -63,7 +63,7 @@ if __name__ == '__main__':
                     break
                 print("PONTUAÇÃO:", score)
 
-            if pacman_pos == comida_pos: #PACMAN COME A COMIDA
+            if pacman_pos == comida_pos:
                 comida_pos = [randint(0, grid - 1), randint(0, grid - 1)]
 
             pacman = '\033[1;31mO\033[m' if pacman == '\033[1;33mo\033[m' else '\033[1;33mo\033[m'
