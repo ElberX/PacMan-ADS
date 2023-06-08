@@ -1,17 +1,16 @@
-#PROJETO PACMAN
+## PROJETO PACMAN
 Repositório oficial da equipe {OzuMilde}
 
-#PROJETO ESCOLHIDO
+## PROJETO ESCOLHIDO
 Projeto 1 - PacMan
 
-#EQUIPE DE DESENVOLVIMENTO
+##EQUIPE DE DESENVOLVIMENTO
 VANESSA DANYELLE (MATRÍCULA: 11026605)
 ELBER MONTEIRO (MATRÍCULA: 01570542)
 YRVINNY THUANY (MATRÍCULA: 01599519)
 MATHEUS EMANUEL (MATRÍCULA: 01590369)
 
-# Jogo Pacman
-
+## Jogo Pacman
 Este é um jogo simples do Pacman implementado em Python. O jogador controla o Pacman e seu objetivo é
 comer todas as comidas representadas por "X" no grid antes de atingir uma pontuação de 10.
 
